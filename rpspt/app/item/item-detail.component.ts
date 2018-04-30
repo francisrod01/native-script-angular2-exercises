@@ -21,4 +21,8 @@ export class ItemDetailComponent implements OnInit {
         const id = +this.route.snapshot.params["id"];
         this.item = this.itemService.getItem(id);
     }
+
+    public btnTapped() {
+        alert('button tapped!');
+    }
 }
