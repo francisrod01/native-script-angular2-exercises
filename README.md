@@ -7,6 +7,10 @@ Exercises from `Building Native Mobile Apps with NativeScript and Angular` 2 cou
 
 ## Concepts ##
 
+
+![Framework sandwich](./screenshots/framework-sandwich.png)
+
+
 ### NativeScript Technologies ###
 
 - JavaScript
