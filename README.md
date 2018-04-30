@@ -5,6 +5,29 @@ Exercises from `Building Native Mobile Apps with NativeScript and Angular` 2 cou
 - Course on [LinkedIn][1] by [Alex Ziskind][2]
 - Author from this repo: [Francis Rodrigues][3]
 
+## Concepts ##
+
+### NativeScript Technologies ###
+
+- JavaScript
+- TypeScript
+- TypeScript with Angular
+
+### Benefits ###
+
+- Native UI Performance
+- 100% native API acess
+- NPM or yarn
+- CocoaPods
+- Gradle
+
+### JavaScript Engines ###
+
+Always up to date
+
+- JavaScriptCore on iOS
+- V8 on Android
+
 ## References ##
 
 - [NativeScript][4]
