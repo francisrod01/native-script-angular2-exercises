@@ -42,6 +42,14 @@ Always up to date
 - works with browsers
 - works without browsers as NativeScript framework
 
+## Angular Component Rules ##
+
+- Interacts with host
+- Renders itself
+- Configures dependency injection
+- Defines its own inputs and outputs
+- Has a well-defined life cycle
+
 ## References ##
 
 - [NativeScript][4]
