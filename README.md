@@ -28,6 +28,16 @@ Always up to date
 - JavaScriptCore on iOS
 - V8 on Android
 
+## Using Angular with NativeScript ##
+
+- Angular is not mandatory for NativeScript applications
+- NativeScript integrates seamlessly with Angular
+
+## Is a Platform Agnostic ##
+
+- works with browsers
+- works without browsers as NativeScript framework
+
 ## References ##
 
 - [NativeScript][4]
