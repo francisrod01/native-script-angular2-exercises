@@ -20,7 +20,9 @@ chrome-devtools://devtools/bundled/inspector.html?experiments=true&ws=localhost:
 
 ![VSCode debug extension](./screenshots/vscode-debug.png)
 
-## NativeScript Angular Modules ##
+## Concepts ##
+
+### NativeScript Angular Modules ###
 
 - Bootstrap
 - Platform
@@ -61,6 +63,12 @@ const routes: Routes = [...];
 })
 export class AppRoutingModule { }
 ```
+
+### ListView ###
+
+- Optimized
+- Row virtualization
+- More powerful than *ngFor
 
 ## License ##
 
