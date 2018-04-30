@@ -20,7 +20,6 @@ yarn.lock
 
 *.js.map
 *.metadata.json
-/**/*.d.ts
 /**/*.js
 
 tmp/
